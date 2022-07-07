@@ -44,7 +44,9 @@
 <a href="https://github.com/Bibsal?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/Bibsal?tab=repositories" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/vishalkeshri349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[@tamannav01](https://www.instagram.com/vishalkeshri349/)" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vishal.keshri.58555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vishal.keshri.58555/" height="30" width="40" /></a>  
-
+ <!--
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/bishalprasadkeshri/)
+-->
 </p>
 <br>
 <br>
