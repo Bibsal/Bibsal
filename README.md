@@ -3,7 +3,7 @@
 - 🌱 I’m currently a final year B.Tech 'CSE' student.
 - 💞️ I’m looking to collaborate/work with IT industries.
 - 📫 How to reach me ...You can connect with me via my linkedin I'd https://www.linkedin.com/in/bishal-keshri-8a767a177/
-- 📫 Or you can drop me a mail at bishalprasadkeshri@gmail.com 
+- 📫 Or you can drop me a mail at bishalprasadkeshri@gmail.com   
 --->
 
 ![Blue White Colorful Business LinkedIn Banner (4)](https://user-images.githubusercontent.com/55621344/177795371-0465e183-e2e6-4810-b6ff-021659d8e952.png)
